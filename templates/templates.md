@@ -11,7 +11,7 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 ## Instagram Brand / LRC
 
 - **Nome:** Instagram Brand / LRC
-- **ID Canva:** *(da inserire)*
+- **ID Canva / Link:** https://canva.link/sj8y8oludfihf0b
 - **Tipo:** Post feed (template principale del brand)
 - **Target:** trasversale (PMI, Ristoranti, Aziende/Industria)
 - **Pillar:** trasversale
@@ -20,20 +20,6 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 - **Elementi da NON modificare:** palette colori (bianco/off-white + blu), stile tipografico, impostazione minimale/premium
 - **Note visuali:** minimalista, premium, bianco/off-white, blu, forme astratte — mai robot/circuiti/hologrammi/stock photo (vedi lista completa in `agents/creative.md`)
 - **Copy principale del template:** *"La tecnologia che semplifica il tuo lavoro."*
-
----
-
-## Automation 01
-
-- **Nome:** Automation 01
-- **ID Canva:** *(da inserire)*
-- **Tipo:** *(da inserire — es. post singolo / carosello)*
-- **Target:** *(da inserire — usato per POST 001, target PMI)*
-- **Pillar:** Automazione
-- **Struttura:** *(da inserire)*
-- **Elementi modificabili:** *(da inserire)*
-- **Elementi da NON modificare:** *(da inserire)*
-- **Note visuali:** *(da inserire — deve rispettare l'identità visiva in `agents/creative.md`)*
 
 ---
 
