@@ -1,7 +1,7 @@
-# Contenido planificado
+# Contenuti pianificati
 
-Piezas ya calendarizadas, pendientes de producción o publicación.
+Contenuti già decisi/in produzione, in attesa di approvazione umana e/o pubblicazione. Quando un contenuto viene pubblicato, va spostato in `content/published.md`.
 
-| Fecha planeada | Título | Canal | Pilar | Estado |
-|----------------|--------|-------|-------|--------|
-| | | | | |
+| ID | Data | Pillar | Target | Obiettivo | Concept | Hook | Angolo | Formato | Template | Status |
+|----|------|--------|--------|-----------|---------|------|--------|---------|----------|--------|
+| POST 001 | 29/09/2026 | Automazione | PMI | Far riconoscere un problema | Ridurre il lavoro manuale attraverso l'automazione | "Quante ore perdi facendo la stessa cosa?" | Tempo perso in attività ripetitive | Post | Automation 01 | Da revisionare (CTA: "Parliamone.") |
