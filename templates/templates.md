@@ -51,17 +51,17 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 ---
 
-## Instagram Brand / LRC — Dark Statement
+## Instagram Brand / LRC — Blu su Blu
 
-- **Nome:** Dark Statement (variante scura di Instagram Brand / LRC)
+- **Nome:** Blu su Blu (variante a campo pieno di Instagram Brand / LRC)
 - **Design di riferimento (Canva):** https://www.canva.com/d/OgBBWvwrnjY62qp
-- **Tipo:** Post feed — variante a sfondo scuro
+- **Tipo:** Post feed — variante a sfondo blu di marca pieno (non bianco/off-white, non nero)
 - **Target:** trasversale
 - **Pillar:** usato per Intelligenza Artificiale (POST 004)
-- **Struttura:** sfondo blu scuro derivato dal blu di marca (#0B1A45, non nero/carbone neutro) invece di bianco/off-white; testo principale bianco (#F5F7FF); accento sempre blu di marca (#0A46D0), mai un altro colore; wordmark "LRC IT Solutions" in un blu scuro attenuato (#3A5AA8) per restare sobrio sullo sfondo; URL in grigio chiaro (#C7D0E8) per contrasto
+- **Struttura:** sfondo nel blu di marca esatto (#0A46D0) invece di bianco/off-white; tutto il testo (titolo, accento, wordmark) in blu navy scuro (#05103C) per contrasto monocromatico; URL in un blu navy leggermente più chiaro (#0C1F63)
 - **Elementi modificabili:** testo delle due righe, illustrazione
-- **Elementi da NON modificare:** il blu dell'accento deve restare identico al template chiaro — la variazione è di sfondo (blu scuro di marca, non nero) e di tono del wordmark, mai della tinta del brand
-- **Note visuali:** stesso minimalismo premium, usata per alternare ritmo visivo nel feed senza perdere identità
+- **Elementi da NON modificare:** resta un design blu-su-blu — mai introdurre bianco o nero come colore dominante, il contrasto viene solo dalle due tonalità di blu
+- **Note visuali:** stesso minimalismo premium; alternativa "a tinta unita" al template chiaro, sempre dentro la stessa identità blu LRC
 
 ---
 
