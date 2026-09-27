@@ -58,9 +58,9 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 - **Tipo:** Post feed — variante a sfondo scuro
 - **Target:** trasversale
 - **Pillar:** usato per Intelligenza Artificiale (POST 004)
-- **Struttura:** sfondo carbone (#0A0F1F) invece di bianco/off-white; testo principale bianco (#F5F7FF); accento sempre blu di marca (#0A46D0), mai un altro colore; logo e URL in bianco/grigio chiaro per contrasto
+- **Struttura:** sfondo blu scuro derivato dal blu di marca (#0B1A45, non nero/carbone neutro) invece di bianco/off-white; testo principale bianco (#F5F7FF); accento sempre blu di marca (#0A46D0), mai un altro colore; wordmark "LRC IT Solutions" in un blu scuro attenuato (#3A5AA8) per restare sobrio sullo sfondo; URL in grigio chiaro (#C7D0E8) per contrasto
 - **Elementi modificabili:** testo delle due righe, illustrazione
-- **Elementi da NON modificare:** il blu dell'accento deve restare identico al template chiaro — la variazione è solo di sfondo, mai di tinta del brand
+- **Elementi da NON modificare:** il blu dell'accento deve restare identico al template chiaro — la variazione è di sfondo (blu scuro di marca, non nero) e di tono del wordmark, mai della tinta del brand
 - **Note visuali:** stesso minimalismo premium, usata per alternare ritmo visivo nel feed senza perdere identità
 
 ---
