@@ -7,15 +7,17 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 | ID | Data | Pillar | Target | Obiettivo | Angolo | Template Canva | Design | Status |
 |----|------|--------|--------|-----------|--------|-----------------|--------|--------|
 | POST 001 | 28/09/2026 | Trasversale | Trasversale | Far conoscere LRC | Presentazione | Presentazione/Lista (chiaro, degradé) | [Canva](https://www.canva.com/d/doOFe1gUJldkALB) | Design e illustrazione pronti — in attesa di approvazione |
-| POST 002 | 30/09/2026 | Trasversale | Trasversale | Fissare il messaggio identificativo | Tagline/posizionamento | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/cnEtqk8UOwXaG5J) | Design pronto — approvato (nessuna illustrazione prevista) |
-| POST 003 | 02/10/2026 | Trasversale | Trasversale | Far capire con chi lavora LRC | Segmenti serviti | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/3JZ8uN66lg0iVuk) | Design pronto — in attesa di approvazione |
-| POST 004 | 05/10/2026 | Trasversale | Trasversale | Differenziazione, posizionamento | Non un fornitore di software generico | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/uBiaPjmTUtE9lhX) | Design pronto — in attesa di approvazione |
-| POST 005 | 07/10/2026 | Trasversale | Trasversale | Trasparenza sul metodo di lavoro | Come lavoriamo | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/3lYD_LPPTT6td2T) | Design pronto — in attesa di approvazione |
-| POST 006 | 09/10/2026 | Automazione | Trasversale | Reinforce del valore centrale | Beneficio finale (tempo risparmiato) | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/fTvee_kMU7_RgvZ) | Design pronto — in attesa di approvazione |
-| POST 007 | 12/10/2026 | Automazione | PMI | Far riconoscere un problema | Tempo perso | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/aPKz3bsXtL3Pxaa) | Design pronto — in attesa di illustrazione e approvazione |
-| POST 008 | 14/10/2026 | Intelligenza Artificiale | PMI/Trasversale | Posizionare LRC come applicatore concreto dell'AI | AI concreta | Scuro con bagliore | [Canva](https://www.canva.com/d/2ap2nyyWlKdB6Zd) | Design pronto — in attesa di illustrazione e approvazione |
-| POST 009 | 16/10/2026 | Automazione | Ristoranti | Mostrare una soluzione possibile | Richieste ripetitive | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/bywoHzfZ3gxOFZ6) | Design pronto — in attesa di illustrazione e approvazione |
-| POST 010 | 19/10/2026 | Soluzioni su misura | Trasversale/PMI | Differenziare LRC dalle software house generiche | Adattabilità | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/0qKExinZyEt7nlH) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 002 | 30/09/2026 | Trasversale | Trasversale | Fissare il messaggio identificativo | Tagline/posizionamento | Scuro con bagliore (convertito il 28/09/2026) | [Canva](https://www.canva.com/d/lVa82IaaL9YnxqE) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 003 | 02/10/2026 | Trasversale | Trasversale | Far capire con chi lavora LRC | Segmenti serviti | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/3JZ8uN66lg0iVuk) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 004 | 05/10/2026 | Trasversale | Trasversale | Differenziazione, posizionamento | Non un fornitore di software generico | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/uBiaPjmTUtE9lhX) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 005 | 07/10/2026 | Trasversale | Trasversale | Trasparenza sul metodo di lavoro | Come lavoriamo | Scuro con bagliore (convertito il 28/09/2026) | [Canva](https://www.canva.com/d/ie1nU5Q1_nJ1hcp) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 006 | 09/10/2026 | Automazione | Trasversale | Reinforce del valore centrale | Beneficio finale (tempo risparmiato) | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/fTvee_kMU7_RgvZ) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 007 | 12/10/2026 | Automazione | PMI | Far riconoscere un problema | Tempo perso | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/aPKz3bsXtL3Pxaa) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 008 | 14/10/2026 | Intelligenza Artificiale | PMI/Trasversale | Posizionare LRC come applicatore concreto dell'AI | AI concreta | Scuro con bagliore | [Canva](https://www.canva.com/d/2ap2nyyWlKdB6Zd) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 009 | 16/10/2026 | Automazione | Ristoranti | Mostrare una soluzione possibile | Richieste ripetitive | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/bywoHzfZ3gxOFZ6) | Design e illustrazione pronti — in attesa di approvazione |
+| POST 010 | 19/10/2026 | Soluzioni su misura | Trasversale/PMI | Differenziare LRC dalle software house generiche | Adattabilità | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/0qKExinZyEt7nlH) | Design e illustrazione pronti — in attesa di approvazione |
+
+**Ritmo scuro/chiaro applicato il 28/09/2026:** POST 002, 005 e 008 sono scuri (bagliore blu radiale); gli altri 7 restano chiari con degradé tenue — circa 1 scuro ogni 2-3 chiari lungo la sequenza (vedi `templates/templates.md`).
 
 ---
 
@@ -32,8 +34,8 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 ## POST 002 — Posizionamento
 
 - **Concept:** La frase che diventa firma riconoscibile del brand.
-- **Testo visual:** "La tecnologia che" (scuro) / **"semplifica il tuo lavoro."** (blu, accento)
-- **Illustrazione prevista:** nessuna — il post più pulito della sequenza, di proposito.
+- **Testo visual:** "La tecnologia che" (blu acceso #2A80FF) / **"semplifica il tuo lavoro."** (bianco) — convertito a template scuro il 28/09/2026 per il ritmo scuro/chiaro della sequenza
+- **Illustrazione:** "code card" chiara con `semplifica(lavoro);`, sotto il testo
 - **Caption:** "Non aggiungiamo complessità. La togliamo. Che tu gestisca un'azienda, un ristorante o una PMI, il nostro lavoro è lo stesso: farti perdere meno tempo su ciò che può essere semplice."
 - **CTA:** "Seguici per scoprire come."
 - **Hashtag:** #LRCSolutions #TecnologiaSuMisura #PMI #Automazione
@@ -43,7 +45,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Mostrare esplicitamente i tre segmenti che LRC serve, per evitare che il profilo sembri rivolto a un solo tipo di cliente.
 - **Testo visual:** "PMI. Ristoranti. Aziende." (scuro) / **"Lavoriamo con chi lavora ogni giorno."** (blu, accento)
-- **Illustrazione prevista:** nessuna per ora.
+- **Illustrazione:** card chiara con `const clienti = ["PMI", "Ristoranti", "Aziende"];`, sotto il testo
 - **Caption:** "Non abbiamo un cliente tipo. Abbiamo un metodo: capire come lavori davvero, prima di proporre qualsiasi soluzione."
 - **CTA:** "Di che tipo di attività ti occupi? Raccontacelo."
 - **Hashtag:** #LRCSolutions #PMI #Ristoranti #SoluzioniDigitali
@@ -53,7 +55,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Differenziare LRC da un fornitore di software generico: il prodotto è lo strumento, non l'obiettivo.
 - **Testo visual:** "Non vendiamo software." (scuro) / **"Risolviamo problemi."** (blu, accento)
-- **Illustrazione prevista:** nessuna per ora.
+- **Illustrazione:** pezzo di puzzle che incastra in uno spazio blu, con un piccolo segno di spunta — metafora del "risolvere", sotto il testo
 - **Caption:** "Il software è lo strumento, non l'obiettivo. Il nostro lavoro comincia sempre da un problema reale, non da un prodotto da vendere."
 - **CTA:** "Qual è il problema che vorresti risolvere per primo?"
 - **Hashtag:** #LRCSolutions #ProblemSolving #TecnologiaSuMisura #PMI
@@ -62,8 +64,8 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 ## POST 005 — Come lavoriamo
 
 - **Concept:** Anticipare il metodo LRC (capire prima, costruire dopo), per costruire fiducia nel processo.
-- **Testo visual:** "Prima capiamo il problema." (scuro) / **"Poi costruiamo la soluzione."** (blu, accento)
-- **Illustrazione prevista:** nessuna per ora.
+- **Testo visual:** "Prima capiamo il problema." (blu acceso #2A80FF) / **"Poi costruiamo la soluzione."** (bianco) — convertito a template scuro il 28/09/2026 per il ritmo scuro/chiaro della sequenza
+- **Illustrazione:** icona lente (capire) collegata con una freccia a un'icona di spunta (soluzione costruita), sotto il testo
 - **Caption:** "Non iniziamo mai da un modello preconfezionato. Ogni progetto parte da una conversazione su come lavori davvero."
 - **CTA:** "Raccontaci come lavori oggi."
 - **Hashtag:** #LRCSolutions #MetodoDiLavoro #SoftwareSuMisura #PMI
@@ -73,7 +75,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Chiudere il blocco di awareness riportando tutto al beneficio finale, in modo semplice e memorabile.
 - **Testo visual:** "Dietro ogni automazione c'è un'idea semplice." (scuro) / **"Farti risparmiare tempo."** (blu, accento)
-- **Illustrazione prevista:** nessuna per ora.
+- **Illustrazione:** cronometro con lancette blu in movimento veloce, simbolo del tempo risparmiato, sotto il testo
 - **Caption:** "Non serve complicare la tecnologia per farla funzionare. Serve capire dove sta rubando tempo, e toglierlo di mezzo."
 - **CTA:** "Segui LRC per scoprire come lo facciamo, un caso alla volta."
 - **Hashtag:** #LRCSolutions #Automazione #TempoRisparmiato #PMI
@@ -83,7 +85,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Il tempo perso in Excel, email, inserimento dati è un costo invisibile.
 - **Testo visual:** "Quante ore perdi" (scuro) / **"facendo cose che potrebbero essere automatiche?"** (blu, accento)
-- **Illustrazione prevista:** clock/hourglass con freccia in loop, stile doodle (in attesa di generazione)
+- **Illustrazione:** grafico a barre con una lente d'ingrandimento che mette a fuoco le ore perse, sotto il testo
 - **Caption:** "Excel da aggiornare a mano. Email ripetitive. Dati da cercare ogni volta da capo. Non è produttività: è tempo che nessuno recupera più."
 - **CTA:** "Ti riconosci? Scrivilo nei commenti."
 - **Hashtag:** #Automazione #PMI #ProduttivitàAziendale #LRCSolutions
@@ -93,7 +95,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** L'AI non sostituisce tutto: migliora punti specifici.
 - **Testo visual:** "Il problema non è avere l'AI." (blu, accento) / **"È sapere dove risparmi tempo."** (bianco, sfondo scuro con bagliore)
-- **Illustrazione prevista:** lente che mette a fuoco un solo punto (in attesa di generazione)
+- **Illustrazione:** singola scintilla blu con bagliore, sotto il testo
 - **Caption:** "Non usiamo l'intelligenza artificiale perché fa tendenza. La usiamo dove risolve davvero un problema: velocizzare una ricerca, automatizzare una risposta, ridurre un errore. Il resto è marketing."
 - **CTA:** "Parliamone: dove pensi che l'AI potrebbe aiutarti davvero?"
 - **Hashtag:** #IntelligenzaArtificiale #AIperlePMI #LRCSolutions #Automazione
@@ -103,7 +105,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Automatizzare le richieste ripetitive libera tempo per il servizio.
 - **Testo visual:** "Il tuo ristorante non dovrebbe" (scuro) / **"rispondere sempre alle stesse domande."** (blu, accento)
-- **Illustrazione prevista:** bolla di chat con messaggi ripetuti + check (in attesa di generazione)
+- **Illustrazione:** due bolle di chat — una grigia (domanda ripetuta) e una blu con spunta (risposta automatica), sotto il testo
 - **Caption:** "Orari, disponibilità, prenotazioni, domande su allergeni: sono richieste che si ripetono ogni giorno. Automatizzarle non toglie nulla al servizio — lascia più tempo per farlo bene."
 - **CTA:** "Gestisci un ristorante o un locale? Scrivici."
 - **Hashtag:** #Ristoranti #AutomazioneWhatsApp #LRCSolutions #TecnologiaPerRistoranti
@@ -113,7 +115,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** LRC adatta il software al cliente, non il contrario.
 - **Testo visual:** "E se il software si adattasse al tuo lavoro?" (scuro) / **"Non il contrario."** (blu, accento)
-- **Illustrazione prevista:** due forme che si incastrano adattandosi (in attesa di generazione)
+- **Illustrazione:** due forme organiche (bianca e blu) che si incastrano adattandosi l'una all'altra, sotto il testo
 - **Caption:** "La maggior parte dei software ti chiede di adattarti a loro. Noi facciamo il contrario: costruiamo il software attorno al modo in cui lavori davvero."
 - **CTA:** "Raccontaci come lavori: troviamo la soluzione insieme."
 - **Hashtag:** #SoftwareSuMisura #LRCSolutions #PMI #SoluzioniDigitali
@@ -123,4 +125,4 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 ## Nota produzione Canva
 
-I design dei 10 post sono costruiti in Canva sulle due famiglie visive scelte dall'utente il 27-28/09/2026: **chiaro con degradé tenue** (tutti tranne POST 008) e **scuro con bagliore blu radiale** (POST 008, Intelligenza Artificiale). Manca ancora l'inserimento dell'illustrazione per i post 007, 008, 009, 010 (il rate limit sulla generazione immagini di Canva si è risolto il 28/09/2026). POST 001 ha già la sua illustrazione (vedi sopra). Nessun post è ancora stato approvato definitivamente né pubblicato.
+I 10 design sono completi: testo, template (chiaro o scuro) e illustrazione. Ogni illustrazione è stata pensata come metafora visiva specifica del contenuto di quel post (non un template ripetuto identico) — vedi `templates/templates.md`, sezione "Stile illustrazioni", per i dettagli e i prompt usati. Ritmo scuro/chiaro: POST 002, 005 e 008 scuri; gli altri 7 chiari. Nessun post è ancora stato approvato definitivamente né pubblicato — restano da rivedere e approvare nel pannello.

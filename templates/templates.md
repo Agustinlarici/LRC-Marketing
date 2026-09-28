@@ -20,7 +20,7 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 - **Elementi da NON modificare:** palette colori (degradé chiaro + blu di marca), stile tipografico, impostazione minimale/premium; il degradé deve restare discreto — mai diventare protagonista del design
 - **Note visuali:** minimalista, premium, degradé tenue, blu, forme astratte — mai robot/circuiti/hologrammi/stock photo (vedi lista completa in `agents/creative.md`)
 - **Copy principale del template:** *"La tecnologia che semplifica il tuo lavoro."*
-- **Usato in:** POST 002 (uso diretto, senza illustrazione)
+- **Usato in:** nessun post al momento — POST 002 è stato convertito a "Scuro con bagliore" il 28/09/2026 per il ritmo scuro/chiaro della sequenza.
 
 ---
 
@@ -63,22 +63,32 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 - **Elementi modificabili:** testo delle due righe, illustrazione aggiuntiva
 - **Elementi da NON modificare:** le due immagini di bagliore e la loro posizione (creano l'effetto radiale); il blu acceso resta l'unico accento oltre al bianco — mai introdurre nero come testo o altri colori
 - **Note visuali:** usata per alternare ritmo visivo nel feed su un post di impatto (es. IA); non va usata per troppi post di fila per non perdere l'effetto
+- **Usato in:** POST 002, POST 005, POST 008 — ritmo di circa 1 post scuro ogni 2-3 chiari (aggiornato 28/09/2026)
 
 ---
 
-## Stile illustrazioni: "code card" piatta
+## Principio guida illustrazioni: una metafora diversa per ogni post
 
-- **Nome:** Code card (illustrazione, non un template di post a sé)
-- **Aggiunta il:** 28/09/2026, dopo vari tentativi (forme astratte generiche, mockup 3D con robot, finestra scura stile IDE) scartati dall'utente come poco premium o troppo affollati.
-- **Aspetto:** card chiara e piatta (NON 3D), bordi arrotondati, leggero drop shadow, su sfondo con pattern di puntini chiaro. Dentro: etichetta file in alto in grigio monospace (es. "code.ts") + un riquadro bianco con numero di riga a sinistra e una riga di codice, con la parola chiave in un colore tenue viola/blu e la stringa/valore in blu di marca (#0A46D0). Stile developer-tool minimale (tipo Linear/Vercel), non finestra IDE scura.
-- **Quando usarla:** come illustrazione sotto al testo (non sopra) nei post dove ha senso mostrare "il prodotto" in modo concreto ma elegante — es. POST 001.
-- **Esempio di prompt generazione immagine (Canva AI):** "Clean flat UI mockup illustration, light and airy, NOT 3D. A light gray rounded card floating above a very subtle light dot-grid background, soft drop shadow. Inside the card, a filename label in small gray monospace text at the top. Below it, a white rounded inner box containing one line of code in dark monospace font: a small gray line number in the left gutter, then the code with the keyword in a soft purple/blue color and the key string/value in brand blue (#0A46D0). Minimal, precise, modern developer-tool aesthetic like a Linear or Vercel product screenshot. No other elements, no people, no logos. Square 1:1 composition, generous white space around the card."
-- **Usato in:** POST 001 (`return "soluzioni su misura";`)
-- **Scartato per POST 001:** forme astratte generiche (blob senza significato), mockup 3D robot+monitor (troppo elementi/cavo desprolijo), finestra codice scura stile IDE sola (bien pero se prefirió la versión clara/piatta).
+**Regola stabilita il 28/09/2026, dopo feedback esplicito dell'utente:** le illustrazioni NON devono ripetere lo stesso formato/template visivo su tutti i post (es. non fare 10 "code card" identiche cambiando solo il testo). Ogni post ha una sua metafora visiva specifica, coerente col proprio messaggio. Lo stile generale resta condiviso (vedi sotto), ma il soggetto cambia sempre.
 
-## Stile illustrazioni: 3D minimale premium (opzionale, ammesso)
+**Stile condiviso (family style):** flat design con leggera profondità 3D, contorno sottile o assente, ombra morbida, palette blu di marca (#0A46D0 chiaro / #2A80FF scuro) + bianco/grigio neutro, sfondo bianco puro o con pattern di puntini molto tenue (o trasparente per i post scuri), composizione centrata, nessun elemento superfluo, nessun testo leggibile oltre a eventuali frammenti di codice, nessuna persona, niente robot/circuiti/ologrammi generici (salvo eccezioni valutate — vedi `agents/creative.md`).
 
-Ammesso anche uno stile diverso, più "oggetto 3D flottante" (monitor, dispositivo, o anche un robot stilizzato — vedi aggiornamento in `agents/creative.md`), sempre con: forme arrotondate, materiali bianco opaco, ombre morbide, accenti blu/celeste, sfondo bianco puro, composizione centrata, nessun elemento superfluo. Da valutare caso per caso con l'utente prima di applicarlo su più post — non è ancora lo standard, è un'alternativa.
+**Registro delle illustrazioni usate (28/09/2026):**
+
+| Post | Metafora | Prompt sintetico (Canva AI generate-image) |
+|------|----------|----------------------------------------------|
+| POST 001 | Code card chiara: `return "soluzioni su misura";` | Card piatta, bordi arrotondati, etichetta file, riga di codice con keyword viola/blu e stringa in blu di marca, sfondo puntinato |
+| POST 002 | Code card chiara: `semplifica(lavoro);` | Come sopra, su sfondo scuro del post |
+| POST 003 | Code card chiara: `const clienti = ["PMI","Ristoranti","Aziende"];` | Come sopra — rappresenta i 3 segmenti come dati/categorie |
+| POST 004 | Pezzo di puzzle bianco che incastra in uno spazio blu, con spunta | Puzzle piece flat/3D, contorno nero, ombra morbida, sfondo puntinato |
+| POST 005 | Lente (capire) → freccia → spunta (soluzione costruita) | Due icone rotonde collegate da una freccia sottile, toni bianco/blu chiaro, pensata per sfondo scuro |
+| POST 006 | Cronometro con lancette blu in movimento | Cronometro flat/3D, contorno nero, linee di movimento, sfondo puntinato |
+| POST 007 | Grafico a barre blu + lente d'ingrandimento | Pannello con barre in degradé blu, lente realistica con manico di legno, sfondo puntinato |
+| POST 008 | Scintilla blu singola con bagliore | Stella/scintilla a 4 punte, blu acceso, bagliore morbido, pensata per sfondo scuro |
+| POST 009 | Due bolle di chat: una grigia (domanda ripetuta), una blu con spunta (risposta automatica) | Speech bubbles flat/3D, contorno nero, ombra morbida |
+| POST 010 | Due forme organiche (bianca e blu) che si incastrano adattandosi | Forme astratte arrotondate che si incastrano, contorno nero, sfondo puntinato |
+
+**Scartato prima di arrivare a questo criterio:** forme astratte generiche senza significato, un mockup 3D con robot seduto alla scrivania (poi ammesso in linea di principio ma non usato in pratica), una finestra di codice scura isolata, e un primo giro di "code card" ripetute su più post con solo il testo diverso (respinto dall'utente: "no tienen que ser todas iguales").
 
 ## Come aggiungere un nuovo template
 
