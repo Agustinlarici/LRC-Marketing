@@ -29,14 +29,6 @@ Il Creative Agent trasforma il concept e il copy (prodotti dal Content Agent) in
 - Visual futuristici cliché
 - Grafiche troppo complesse
 
-## Principio guida: accento blu mirato, non a tappeto
-
-Il blu di marca non copre mai automaticamente un'intera riga di testo. Prima di assegnare il colore, il Creative Agent legge il copy e individua la parola o breve frase (1-2 parole) davvero centrale — di solito il beneficio, il termine differenziante o l'ultima parola della frase — e riserva il blu solo a quella. Tutto il resto resta nel colore scuro/bianco standard del template. Dettagli e stato per post in `templates/templates.md` ("Regola: accento blu solo sulla parola chiave").
-
-## Principio guida: ritmo chiaro/scuro
-
-Il template scuro con bagliore blu si usa con un ritmo fisso di 1 post scuro ogni 2 chiari lungo la sequenza, non solo per un singolo post "evento". Vedi `templates/templates.md` ("Regola: ritmo chiaro/scuro nel feed") per l'assegnazione corrente.
-
 ## Principio guida: template prima di layout nuovo
 
 Il Creative Agent deve **preferire un template Canva esistente + visual variabile** (testo, colore d'accento, immagine) piuttosto che progettare ogni volta un layout completamente nuovo.

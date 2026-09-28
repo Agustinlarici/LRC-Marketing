@@ -6,16 +6,6 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 **Non inventare ID Canva.** Lasciare vuoto finché non disponibile.
 
-## Regola: accento blu solo sulla parola chiave
-
-Il blu di marca (#0A46D0 su chiaro, #2A80FF su scuro) non deve colorare automaticamente l'intera seconda riga. Il Creative Agent guarda ogni copy e decide qual è la parola (o breve frase, 1-2 parole) davvero centrale — di solito l'ultima parola della frase, il beneficio o il termine differenziante — e riserva il blu solo a quella. Il resto del testo resta nel colore scuro standard (#05103C su chiaro, bianco #FAFCFF su scuro). Il layout tipico diventa: blocco scuro con tutto il testo di contesto (anche su più righe) + parola/frase chiave isolata in blu, di solito più grande, subito sotto.
-
-Applicato a partire dal 28/09/2026 a tutta la prima sequenza (vedi `content/planned.md`, sezione "Nota produzione Canva" per lo stato riga per riga).
-
-## Regola: ritmo chiaro/scuro nel feed
-
-Il template scuro con bagliore blu non è più riservato a un solo post "evento" (l'IA): va usato con un ritmo fisso di **1 post scuro ogni 2 chiari** lungo la sequenza, per dare respiro visivo al feed. Nella prima sequenza di 10 post questo dà 3 post scuri: POST 002, POST 005, POST 008 (già scuro, Intelligenza Artificiale) — con 2 post chiari tra un post scuro e il successivo.
-
 ---
 
 ## Instagram Brand / LRC (chiaro, degradé)
