@@ -6,7 +6,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 | ID | Data | Pillar | Target | Obiettivo | Angolo | Template Canva | Design | Status |
 |----|------|--------|--------|-----------|--------|-----------------|--------|--------|
-| POST 001 | 28/09/2026 | Trasversale | Trasversale | Far conoscere LRC | Presentazione | Presentazione/Lista (chiaro, degradé) | [Canva](https://www.canva.com/d/doOFe1gUJldkALB) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 001 | 28/09/2026 | Trasversale | Trasversale | Far conoscere LRC | Presentazione | Presentazione/Lista (chiaro, degradé) | [Canva](https://www.canva.com/d/doOFe1gUJldkALB) | Design e illustrazione pronti — in attesa di approvazione |
 | POST 002 | 30/09/2026 | Trasversale | Trasversale | Fissare il messaggio identificativo | Tagline/posizionamento | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/cnEtqk8UOwXaG5J) | Design pronto — approvato (nessuna illustrazione prevista) |
 | POST 003 | 02/10/2026 | Trasversale | Trasversale | Far capire con chi lavora LRC | Segmenti serviti | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/3JZ8uN66lg0iVuk) | Design pronto — in attesa di approvazione |
 | POST 004 | 05/10/2026 | Trasversale | Trasversale | Differenziazione, posizionamento | Non un fornitore di software generico | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/uBiaPjmTUtE9lhX) | Design pronto — in attesa di approvazione |
@@ -22,8 +22,8 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 ## POST 001 — Chi è LRC
 
 - **Concept:** Presentare LRC attraverso ciò che fa, non con uno slogan aziendale generico.
-- **Testo visual:** "Software · Intelligenza Artificiale · Automazione" (scuro) / **"Soluzioni su misura."** (blu, accento)
-- **Illustrazione prevista:** tre forme astratte che convergono in un quarto punto blu (in attesa di generazione)
+- **Testo visual:** "Intelligenza Artificiale" / "Software · Automazione" (scuro) / **"Soluzioni su misura."** (blu, accento) — riordinato il 28/09/2026 su richiesta dell'utente
+- **Illustrazione:** "code card" piatta sotto il testo — riga di codice `return "soluzioni su misura";` in una card chiara con etichetta file, su sfondo puntinato (vedi `templates/templates.md`, "Stile illustrazioni: code card piatta"). Applicata il 28/09/2026 dopo scartare formas astratte generiche e un mockup 3D con robot+monitor.
 - **Caption:** "LRC Solutions nasce per fare una cosa sola: costruire tecnologia che funziona davvero per chi lavora ogni giorno — aziende, PMI, ristoranti. Non vendiamo pacchetti standard. Costruiamo soluzioni."
 - **CTA:** "Salva questo post se vuoi seguire come lavoriamo."
 - **Hashtag:** #LRCSolutions #SoftwareSuMisura #AutomazionePMI #IntelligenzaArtificiale
@@ -123,4 +123,4 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 ## Nota produzione Canva
 
-I design dei 10 post sono costruiti in Canva sulle due famiglie visive scelte dall'utente il 27-28/09/2026: **chiaro con degradé tenue** (tutti tranne POST 008) e **scuro con bagliore blu radiale** (POST 008, Intelligenza Artificiale). Manca l'inserimento dell'illustrazione per i post che la prevedono (001, 007, 008, 009, 010) — bloccato temporaneamente da un rate limit sulla generazione immagini di Canva. Nessun post è ancora stato approvato definitivamente né pubblicato.
+I design dei 10 post sono costruiti in Canva sulle due famiglie visive scelte dall'utente il 27-28/09/2026: **chiaro con degradé tenue** (tutti tranne POST 008) e **scuro con bagliore blu radiale** (POST 008, Intelligenza Artificiale). Manca ancora l'inserimento dell'illustrazione per i post 007, 008, 009, 010 (il rate limit sulla generazione immagini di Canva si è risolto il 28/09/2026). POST 001 ha già la sua illustrazione (vedi sopra). Nessun post è ancora stato approvato definitivamente né pubblicato.

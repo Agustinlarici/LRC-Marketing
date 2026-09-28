@@ -18,16 +18,16 @@ Il Creative Agent trasforma il concept e il copy (prodotti dal Content Agent) in
 
 ## Da evitare sempre
 
-- Robot
-- Cervelli digitali
 - Circuiti
 - Ologrammi
 - Persone generate (AI-generated people)
 - Stock photo generiche
-- Laptop generici
+- Laptop generici (va bene un monitor/dispositivo stilizzato in 3D minimale, non una foto stock)
 - Neon
 - Visual futuristici cliché
 - Grafiche troppo complesse
+
+**Aggiornamento 28/09/2026:** robot e "cervelli digitali" non sono più vietati per principio — sono ammessi se resi in stile 3D minimale, stilizzato e premium (non robot generici/cliché da stock, vedi esempi in `templates/templates.md`). Decisione dell'utente.
 
 ## Principio guida: template prima di layout nuovo
 
