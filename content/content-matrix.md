@@ -8,17 +8,21 @@ Matrice tema × target × angolo. Permette al Director di capire cosa è già st
 |------|--------|--------|-------------------|-----------|
 | Trasversale (Awareness) | Trasversale | Presentazione | POST 001 (planned, 28/09/2026) | 1 |
 | Trasversale (Awareness) | Trasversale | Tagline/posizionamento | POST 002 (planned, 30/09/2026) | 1 |
+| Trasversale (Awareness) | Trasversale | Segmenti serviti | POST 003 (planned, 02/10/2026) | 1 |
+| Trasversale (Awareness) | Trasversale | Differenziazione (non software house) | POST 004 (planned, 05/10/2026) | 1 |
+| Trasversale (Awareness) | Trasversale | Metodo di lavoro | POST 005 (planned, 07/10/2026) | 1 |
+| Automazione (Awareness) | Trasversale | Beneficio finale (tempo risparmiato) | POST 006 (planned, 09/10/2026) | 1 |
 | AI | PMI | Produttività | — | — |
-| AI | PMI/Trasversale | AI concreta | POST 004 (planned, 05/10/2026) | 1 |
+| AI | PMI/Trasversale | AI concreta | POST 008 (planned, 14/10/2026) | 1 |
 | AI | Ristoranti | WhatsApp | — | — |
 | AI | Aziende / Industria | Automazione produzione | — | — |
-| Automazione | PMI | Tempo perso / riduzione lavoro manuale | POST 003 (planned, 02/10/2026) | 1 |
-| Automazione | Ristoranti | Richieste ripetitive | POST 005 (planned, 07/10/2026) | 1 |
+| Automazione | PMI | Tempo perso / riduzione lavoro manuale | POST 007 (planned, 12/10/2026) | 1 |
+| Automazione | Ristoranti | Richieste ripetitive | POST 009 (planned, 16/10/2026) | 1 |
 | Automazione | Aziende / Industria | Produzione | — | — |
 | Software | PMI | Gestione | — | — |
 | Software | Ristoranti | Ordini | — | — |
 | Software | Aziende / Industria | Integrazione sistemi | — | — |
-| Soluzioni su misura | PMI/Trasversale | Adattabilità | POST 006 (planned, 09/10/2026) | 1 |
+| Soluzioni su misura | PMI/Trasversale | Adattabilità | POST 010 (planned, 19/10/2026) | 1 |
 | Soluzioni su misura | Ristoranti | — | — | — |
 | Soluzioni su misura | Aziende / Industria | — | — | — |
 
