@@ -123,4 +123,28 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 ## Nota produzione Canva
 
-I design dei 10 post sono costruiti in Canva sulle due famiglie visive scelte dall'utente il 27-28/09/2026: **chiaro con degradé tenue** (tutti tranne POST 008) e **scuro con bagliore blu radiale** (POST 008, Intelligenza Artificiale). Manca l'inserimento dell'illustrazione per i post che la prevedono (001, 007, 008, 009, 010) — bloccato temporaneamente da un rate limit sulla generazione immagini di Canva. Nessun post è ancora stato approvato definitivamente né pubblicato.
+I design dei 10 post sono costruiti in Canva sulle due famiglie visive scelte dall'utente il 27-28/09/2026: **chiaro con degradé tenue** e **scuro con bagliore blu radiale**. Manca l'inserimento dell'illustrazione per i post che la prevedono (001, 007, 008, 009, 010) — bloccato temporaneamente da un rate limit sulla generazione immagini di Canva. Nessun post è ancora stato approvato definitivamente né pubblicato.
+
+### Aggiornamento 28/09/2026 — accento blu mirato + ritmo scuro/chiaro
+
+Su richiesta dell'utente, due nuove regole si applicano a tutta la sequenza (vedi `templates/templates.md` per il dettaglio):
+
+1. **Accento blu solo sulla parola chiave** (non più l'intera seconda riga).
+2. **Ritmo 1 post scuro ogni 2 chiari**: oltre a POST 008 (già scuro), diventano scuri anche **POST 002** e **POST 005**.
+
+Stato riga per riga (parola chiave scelta tra parentesi):
+
+| Post | Parola/frase chiave in blu | Sfondo | Stato in Canva |
+|------|------------------------------|--------|-----------------|
+| POST 001 | "misura." | chiaro | ✅ Applicato e salvato (DAHWbUkvmuE) |
+| POST 002 | "semplifica" | → passa a scuro | ⏳ Da fare |
+| POST 003 | "ogni giorno." | chiaro | 🟡 A metà: bloccato scuro fuso, manca riposizionare/riscrivere la riga blu (DAHWdY1yXcg) |
+| POST 004 | "problemi." | chiaro | ⏳ Da fare |
+| POST 005 | "soluzione." | → passa a scuro | ⏳ Da fare |
+| POST 006 | "tempo." | chiaro | ⏳ Da fare |
+| POST 007 | "automatiche?" | chiaro | ⏳ Da fare |
+| POST 008 | "l'AI." e "tempo." (due parole, non più righe intere) | scuro | ⏳ Da fare |
+| POST 009 | "sempre" | chiaro | ⏳ Da fare |
+| POST 010 | "contrario." | chiaro | ⏳ Da fare |
+
+Lavoro in pausa dal 28/09/2026 (l'utente ha pedido frenar la edición en Canva para cargar más tokens). Retomare da POST 003 (completare) seguendo questa tabella, poi continuare in ordine. I nuovi link Canva di POST 002 e POST 005 (una volta convertiti a scuro) vanno registrati qui e in `templates/templates.md`.
