@@ -4,14 +4,14 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 `POST 001` (hook: "Quante ore perdi facendo la stessa cosa?") è stato **sostituito/assorbito** da `POST 003` sotto (stesso concept, hook e visual raffinati all'interno della sequenza ufficiale).
 
-| ID | Data | Pillar | Target | Obiettivo | Angolo | Template Canva | Status |
-|----|------|--------|--------|-----------|--------|-----------------|--------|
-| POST 001 | 28/09/2026 | Trasversale | Trasversale | Far conoscere LRC | Presentazione | Instagram Brand / LRC — Presentazione/Lista | Design pronto in Canva — in attesa di illustrazione e approvazione |
-| POST 002 | 30/09/2026 | Trasversale | Trasversale | Fissare il messaggio identificativo | Tagline/posizionamento | Instagram Brand / LRC | Design pronto in Canva — approvato (nessuna illustrazione prevista) |
-| POST 003 | 02/10/2026 | Automazione | PMI | Far riconoscere un problema | Tempo perso | Instagram Brand / LRC — Domanda/Problema | Design pronto in Canva — in attesa di illustrazione e approvazione |
-| POST 004 | 05/10/2026 | Intelligenza Artificiale | PMI/Trasversale | Posizionare LRC come applicatore concreto dell'AI | AI concreta | Instagram Brand / LRC — Dark Statement | Design pronto in Canva — in attesa di illustrazione e approvazione |
-| POST 005 | 07/10/2026 | Automazione | Ristoranti | Mostrare una soluzione possibile | Richieste ripetitive | Instagram Brand / LRC — Domanda/Problema | Design pronto in Canva — in attesa di illustrazione e approvazione |
-| POST 006 | 09/10/2026 | Soluzioni su misura | Trasversale/PMI | Differenziare LRC dalle software house generiche | Adattabilità | Instagram Brand / LRC | Da produrre in Canva — in attesa di illustrazione e approvazione |
+| ID | Data | Pillar | Target | Obiettivo | Angolo | Template Canva | Design | Status |
+|----|------|--------|--------|-----------|--------|-----------------|--------|--------|
+| POST 001 | 28/09/2026 | Trasversale | Trasversale | Far conoscere LRC | Presentazione | Presentazione/Lista (chiaro, degradé) | [Canva](https://www.canva.com/d/doOFe1gUJldkALB) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 002 | 30/09/2026 | Trasversale | Trasversale | Fissare il messaggio identificativo | Tagline/posizionamento | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/cnEtqk8UOwXaG5J) | Design pronto — approvato (nessuna illustrazione prevista) |
+| POST 003 | 02/10/2026 | Automazione | PMI | Far riconoscere un problema | Tempo perso | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/aPKz3bsXtL3Pxaa) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 004 | 05/10/2026 | Intelligenza Artificiale | PMI/Trasversale | Posizionare LRC come applicatore concreto dell'AI | AI concreta | Scuro con bagliore | [Canva](https://www.canva.com/d/2ap2nyyWlKdB6Zd) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 005 | 07/10/2026 | Automazione | Ristoranti | Mostrare una soluzione possibile | Richieste ripetitive | Domanda/Problema (chiaro, degradé) | [Canva](https://www.canva.com/d/bywoHzfZ3gxOFZ6) | Design pronto — in attesa di illustrazione e approvazione |
+| POST 006 | 09/10/2026 | Soluzioni su misura | Trasversale/PMI | Differenziare LRC dalle software house generiche | Adattabilità | Instagram Brand / LRC (chiaro, degradé) | [Canva](https://www.canva.com/d/0qKExinZyEt7nlH) | Design pronto — in attesa di illustrazione e approvazione |
 
 ---
 
@@ -79,4 +79,4 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 ## Nota produzione Canva
 
-I design dei 6 post sono già costruiti in Canva (testo, colori, layout) usando i template registrati in `templates/templates.md`. Manca solo l'inserimento dell'illustrazione per POST 001, 003, 004, 005, 006 (POST 002 non ne prevede) — bloccato temporaneamente da un rate limit sulla generazione immagini di Canva. Nessun post è ancora stato approvato definitivamente né pubblicato.
+I design dei 6 post sono stati rigenerati il 28/09/2026 sulle due famiglie visive scelte dall'utente: **chiaro con degradé tenue** (POST 001, 002, 003, 005, 006) e **scuro con bagliore blu radiale** (POST 004). Manca solo l'inserimento dell'illustrazione per POST 001, 003, 004, 005, 006 (POST 002 non ne prevede) — bloccato temporaneamente da un rate limit sulla generazione immagini di Canva. Nessun post è ancora stato approvato definitivamente né pubblicato.

@@ -8,26 +8,27 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 ---
 
-## Instagram Brand / LRC
+## Instagram Brand / LRC (chiaro, degradé)
 
 - **Nome:** Instagram Brand / LRC
 - **ID Canva / Link:** https://canva.link/sj8y8oludfihf0b
-- **Tipo:** Post feed (template principale del brand)
+- **Tipo:** Post feed (template principale del brand — variante chiara)
 - **Target:** trasversale (PMI, Ristoranti, Aziende/Industria)
 - **Pillar:** trasversale
-- **Struttura:** hook in evidenza + spazio bianco/off-white + accento blu + forma astratta minimale
+- **Struttura:** hook in evidenza + sfondo con degradé pastello molto tenue (celeste/rosa/bianco) + accento blu + forma astratta minimale
 - **Elementi modificabili:** testo hook, testo visual secondario, immagine/icona astratta, eventuale statistica
-- **Elementi da NON modificare:** palette colori (bianco/off-white + blu), stile tipografico, impostazione minimale/premium
-- **Note visuali:** minimalista, premium, bianco/off-white, blu, forme astratte — mai robot/circuiti/hologrammi/stock photo (vedi lista completa in `agents/creative.md`)
+- **Elementi da NON modificare:** palette colori (degradé chiaro + blu di marca), stile tipografico, impostazione minimale/premium; il degradé deve restare discreto — mai diventare protagonista del design
+- **Note visuali:** minimalista, premium, degradé tenue, blu, forme astratte — mai robot/circuiti/hologrammi/stock photo (vedi lista completa in `agents/creative.md`)
 - **Copy principale del template:** *"La tecnologia che semplifica il tuo lavoro."*
+- **Usato in:** POST 002 (uso diretto, senza illustrazione)
 
 ---
 
 ## Instagram Brand / LRC — Presentazione/Lista
 
-- **Nome:** Presentazione/Lista (variante di Instagram Brand / LRC)
-- **Design di riferimento (Canva):** https://www.canva.com/d/AIZa3YfXp9Niy3P
-- **Tipo:** Post feed — elenco di posizionamento (usato per POST 001)
+- **Nome:** Presentazione/Lista (variante di Instagram Brand / LRC, chiara con degradé)
+- **Design di riferimento (Canva):** https://www.canva.com/d/doOFe1gUJldkALB (POST 001)
+- **Tipo:** Post feed — elenco di posizionamento
 - **Target:** Trasversale
 - **Pillar:** Trasversale / Awareness
 - **Struttura:** riga scura con elenco puntato (es. "Software · Intelligenza Artificiale · Automazione") + riga di chiusura blu accento più grande
@@ -39,8 +40,8 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 ## Instagram Brand / LRC — Domanda/Problema
 
-- **Nome:** Domanda/Problema (variante di Instagram Brand / LRC)
-- **Design di riferimento (Canva):** https://www.canva.com/d/1NB8veFwrlDogwz (POST 003) — stessa struttura usata in https://www.canva.com/d/LUvyTv_EyV7G2Cu (POST 005)
+- **Nome:** Domanda/Problema (variante di Instagram Brand / LRC, chiara con degradé)
+- **Design di riferimento (Canva):** https://www.canva.com/d/aPKz3bsXtL3Pxaa (POST 003) — stessa struttura usata in https://www.canva.com/d/bywoHzfZ3gxOFZ6 (POST 005)
 - **Tipo:** Post feed — problema/domanda al pubblico
 - **Target:** trasversale (usato finora per PMI e Ristoranti)
 - **Pillar:** Automazione (finora)
@@ -51,17 +52,17 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 ---
 
-## Instagram Brand / LRC — Blu su Blu
+## Instagram Brand / LRC — Scuro con bagliore
 
-- **Nome:** Blu su Blu (variante a campo pieno di Instagram Brand / LRC)
-- **Design di riferimento (Canva):** https://www.canva.com/d/OgBBWvwrnjY62qp
-- **Tipo:** Post feed — variante a sfondo blu di marca pieno (non bianco/off-white, non nero)
+- **Nome:** Scuro con bagliore (variante scura di Instagram Brand / LRC)
+- **Design di riferimento (Canva):** https://www.canva.com/d/2ap2nyyWlKdB6Zd (POST 004)
+- **Tipo:** Post feed — variante a sfondo quasi nero con bagliore blu radiale
 - **Target:** trasversale
 - **Pillar:** usato per Intelligenza Artificiale (POST 004)
-- **Struttura:** sfondo nel blu di marca esatto (#0A46D0) invece di bianco/off-white; tutto il testo (titolo, accento, wordmark) in blu navy scuro (#05103C) per contrasto monocromatico; URL in un blu navy leggermente più chiaro (#0C1F63)
-- **Elementi modificabili:** testo delle due righe, illustrazione
-- **Elementi da NON modificare:** resta un design blu-su-blu — mai introdurre bianco o nero come colore dominante, il contrasto viene solo dalle due tonalità di blu
-- **Note visuali:** stesso minimalismo premium; alternativa "a tinta unita" al template chiaro, sempre dentro la stessa identità blu LRC
+- **Struttura:** sfondo quasi nero (#030303) con due immagini di bagliore/luce blu sovrapposte (una in alto, una specchiata in basso, stesso asset ruotato 180°) che creano un effetto radiale; prima riga in blu acceso (#2A80FF), seconda riga in bianco (#FAFCFF); wordmark "LRC" blu acceso, "IT Solutions" bianco; URL bianco
+- **Elementi modificabili:** testo delle due righe, illustrazione aggiuntiva
+- **Elementi da NON modificare:** le due immagini di bagliore e la loro posizione (creano l'effetto radiale); il blu acceso resta l'unico accento oltre al bianco — mai introdurre nero come testo o altri colori
+- **Note visuali:** usata per alternare ritmo visivo nel feed su un post di impatto (es. IA); non va usata per troppi post di fila per non perdere l'effetto
 
 ---
 
