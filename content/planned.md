@@ -4,7 +4,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 `POST 001` originale della primissima bozza (hook: "Quante ore perdi facendo la stessa cosa?") resta **sostituito/assorbito** da `POST 007` sotto (stesso concept, hook e visual raffinati all'interno della sequenza ufficiale).
 
-**Nota sui link Canva (29/09/2026):** i link `canva.com/d/...` che l'API restituisce sono short-link temporanei — cambiano ogni volta che vengono richiesti e possono sembrare "rotti". Il link stabile per aprire ed editare un design è `canva.com/design/<ID>/edit`, usato nella tabella sotto. In alternativa, cercare "POST" nei Progetti Canva, ordinati per modifica recente.
+**Nota sui link Canva (29/09/2026):** i link `canva.com/d/...` che l'API restituisce sono short-link temporanei — cambiano ogni volta che vengono richiesti e possono sembrare "rotti". Il link stabile per aprire ed editare un design è `canva.com/design/<ID>/edit`, usato nella tabella sotto. I 10 design sono stati spostati nella cartella Canva **[LRC - Prima Sequenza (10 post)](https://www.canva.com/folder/FAHWjS9NcKA)** per trovarli facilmente tra i vecchi bozzetti/prove.
 
 | ID | Data | Pillar | Target | Obiettivo | Angolo | Template Canva | Design (link stabile) | Status |
 |----|------|--------|--------|-----------|--------|-----------------|--------|--------|
