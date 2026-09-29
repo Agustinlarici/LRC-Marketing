@@ -67,28 +67,30 @@ Per ogni template: Nome, ID Canva, Tipo, Target, Pillar, Struttura, Elementi mod
 
 ---
 
-## Principio guida illustrazioni: una metafora diversa per ogni post
+## Principio guida illustrazioni: mockup UI reali, una metafora diversa per ogni post
 
-**Regola stabilita il 28/09/2026, dopo feedback esplicito dell'utente:** le illustrazioni NON devono ripetere lo stesso formato/template visivo su tutti i post (es. non fare 10 "code card" identiche cambiando solo il testo). Ogni post ha una sua metafora visiva specifica, coerente col proprio messaggio. Lo stile generale resta condiviso (vedi sotto), ma il soggetto cambia sempre.
+**Regola stabilita il 28-29/09/2026, dopo due giri di feedback esplicito dell'utente:**
+1. Le illustrazioni NON devono ripetere lo stesso formato/template visivo su tutti i post (es. non fare 10 "code card" identiche cambiando solo il testo). Ogni post ha una sua metafora visiva specifica, coerente col proprio messaggio.
+2. Le icone astratte/simboliche isolate (pezzo di puzzle, cronometro, scintilla, bolle di chat generiche, forme che si incastrano) sono state respinte come poco concrete. Lo standard attuale è il **mockup di UI reale**: uno schermo/interfaccia riconoscibile (chat, dashboard, ticket, card di statistica) che mostra concretamente il concetto del post, non un'icona simbolica isolata.
 
-**Stile condiviso (family style):** flat design con leggera profondità 3D, contorno sottile o assente, ombra morbida, palette blu di marca (#0A46D0 chiaro / #2A80FF scuro) + bianco/grigio neutro, sfondo bianco puro o con pattern di puntini molto tenue (o trasparente per i post scuri), composizione centrata, nessun elemento superfluo, nessun testo leggibile oltre a eventuali frammenti di codice, nessuna persona, niente robot/circuiti/ologrammi generici (salvo eccezioni valutate — vedi `agents/creative.md`).
+**Stile condiviso (family style):** mockup UI piatto/flat, bordi arrotondati, ombra morbida, palette blu di marca (#0A46D0 chiaro / #2A80FF scuro) + bianco/grigio neutro, sfondo bianco puro o con pattern di puntini molto tenue (o trasparente per i post scuri), composizione centrata, nessun elemento superfluo, nessuna persona, niente robot/circuiti/ologrammi generici (salvo eccezioni valutate — vedi `agents/creative.md`).
 
-**Registro delle illustrazioni usate (28/09/2026):**
+**Registro delle illustrazioni usate (aggiornato 29/09/2026):**
 
-| Post | Metafora | Prompt sintetico (Canva AI generate-image) |
-|------|----------|----------------------------------------------|
+| Post | Mockup UI | Prompt sintetico (Canva AI generate-image) |
+|------|-----------|----------------------------------------------|
 | POST 001 | Code card chiara: `return "soluzioni su misura";` | Card piatta, bordi arrotondati, etichetta file, riga di codice con keyword viola/blu e stringa in blu di marca, sfondo puntinato |
-| POST 002 | Code card chiara: `semplifica(lavoro);` | Come sopra, su sfondo scuro del post |
-| POST 003 | Code card chiara: `const clienti = ["PMI","Ristoranti","Aziende"];` | Come sopra — rappresenta i 3 segmenti come dati/categorie |
-| POST 004 | Pezzo di puzzle bianco che incastra in uno spazio blu, con spunta | Puzzle piece flat/3D, contorno nero, ombra morbida, sfondo puntinato |
-| POST 005 | Lente (capire) → freccia → spunta (soluzione costruita) | Due icone rotonde collegate da una freccia sottile, toni bianco/blu chiaro, pensata per sfondo scuro |
-| POST 006 | Cronometro con lancette blu in movimento | Cronometro flat/3D, contorno nero, linee di movimento, sfondo puntinato |
+| POST 002 | App mobile che si semplifica: righe affollate barrate in alto, una riga pulita con spunta blu e bottone "Fatto" | Mockup UI schermo mobile, sfondo scuro (post scuro) |
+| POST 003 | Dashboard clienti con righe/tag "PMI", "Ristoranti", "Aziende" | Mockup UI tipo CRM, sfondo puntinato |
+| POST 004 | Card ticket di supporto: da pill grigia "Aperto" a pill blu "Risolto" con spunta | Mockup UI helpdesk, sfondo puntinato |
+| POST 005 | Due pannelli collegati: "Analisi" (lente) → freccia → "Soluzione" (barra blu piena) | Mockup UI, toni bianco/blu, pensato per sfondo scuro |
+| POST 006 | Card statistica dashboard: "-12h" tempo risparmiato con sparkline | Mockup UI analytics, sfondo puntinato |
 | POST 007 | Grafico a barre blu + lente d'ingrandimento | Pannello con barre in degradé blu, lente realistica con manico di legno, sfondo puntinato |
-| POST 008 | Scintilla blu singola con bagliore | Stella/scintilla a 4 punte, blu acceso, bagliore morbido, pensata per sfondo scuro |
-| POST 009 | Due bolle di chat: una grigia (domanda ripetuta), una blu con spunta (risposta automatica) | Speech bubbles flat/3D, contorno nero, ombra morbida |
-| POST 010 | Due forme organiche (bianca e blu) che si incastrano adattandosi | Forme astratte arrotondate che si incastrano, contorno nero, sfondo puntinato |
+| POST 008 | Chat assistente IA: messaggio utente grigio + risposta blu con scintilla | Mockup UI chat AI, pensato per sfondo scuro |
+| POST 009 | Chat reale stile WhatsApp: domanda ripetuta (grigia) + risposta automatica del bot (blu, doppio check) | Mockup UI messaggistica realistico |
+| POST 010 | Dashboard personalizzabile con widget trascinabili in fase di riordino | Mockup UI settings/dashboard, sfondo puntinato |
 
-**Scartato prima di arrivare a questo criterio:** forme astratte generiche senza significato, un mockup 3D con robot seduto alla scrivania (poi ammesso in linea di principio ma non usato in pratica), una finestra di codice scura isolata, e un primo giro di "code card" ripetute su più post con solo il testo diverso (respinto dall'utente: "no tienen que ser todas iguales").
+**Scartato prima di arrivare a questo criterio:** forme astratte generiche senza significato, un mockup 3D con robot seduto alla scrivania (poi ammesso in linea di principio ma non usato in pratica), una finestra di codice scura isolata, un primo giro di "code card" ripetute su più post con solo il testo diverso, e un secondo giro di icone simboliche isolate (puzzle, cronometro, scintilla, chat bubbles generiche) — tutti respinti dall'utente prima di arrivare ai mockup UI reali sopra.
 
 ## Come aggiungere un nuovo template
 

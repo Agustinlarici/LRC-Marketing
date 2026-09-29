@@ -35,7 +35,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** La frase che diventa firma riconoscibile del brand.
 - **Testo visual:** "La tecnologia che" (blu acceso #2A80FF) / **"semplifica il tuo lavoro."** (bianco) — convertito a template scuro il 28/09/2026 per il ritmo scuro/chiaro della sequenza
-- **Illustrazione:** "code card" chiara con `semplifica(lavoro);`, sotto il testo
+- **Illustrazione:** mockup UI di app mobile che si semplifica (righe affollate barrate in alto → una riga pulita con bottone "Fatto"), sotto il testo
 - **Caption:** "Non aggiungiamo complessità. La togliamo. Che tu gestisca un'azienda, un ristorante o una PMI, il nostro lavoro è lo stesso: farti perdere meno tempo su ciò che può essere semplice."
 - **CTA:** "Seguici per scoprire come."
 - **Hashtag:** #LRCSolutions #TecnologiaSuMisura #PMI #Automazione
@@ -45,7 +45,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Mostrare esplicitamente i tre segmenti che LRC serve, per evitare che il profilo sembri rivolto a un solo tipo di cliente.
 - **Testo visual:** "PMI. Ristoranti. Aziende." (scuro) / **"Lavoriamo con chi lavora ogni giorno."** (blu, accento)
-- **Illustrazione:** card chiara con `const clienti = ["PMI", "Ristoranti", "Aziende"];`, sotto il testo
+- **Illustrazione:** mockup UI di dashboard clienti con righe/tag "PMI", "Ristoranti", "Aziende", sotto il testo
 - **Caption:** "Non abbiamo un cliente tipo. Abbiamo un metodo: capire come lavori davvero, prima di proporre qualsiasi soluzione."
 - **CTA:** "Di che tipo di attività ti occupi? Raccontacelo."
 - **Hashtag:** #LRCSolutions #PMI #Ristoranti #SoluzioniDigitali
@@ -55,7 +55,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Differenziare LRC da un fornitore di software generico: il prodotto è lo strumento, non l'obiettivo.
 - **Testo visual:** "Non vendiamo software." (scuro) / **"Risolviamo problemi."** (blu, accento)
-- **Illustrazione:** pezzo di puzzle che incastra in uno spazio blu, con un piccolo segno di spunta — metafora del "risolvere", sotto il testo
+- **Illustrazione:** mockup UI di un ticket di supporto che passa da pill grigia "Aperto" a pill blu "Risolto" con spunta, sotto il testo
 - **Caption:** "Il software è lo strumento, non l'obiettivo. Il nostro lavoro comincia sempre da un problema reale, non da un prodotto da vendere."
 - **CTA:** "Qual è il problema che vorresti risolvere per primo?"
 - **Hashtag:** #LRCSolutions #ProblemSolving #TecnologiaSuMisura #PMI
@@ -65,7 +65,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Anticipare il metodo LRC (capire prima, costruire dopo), per costruire fiducia nel processo.
 - **Testo visual:** "Prima capiamo il problema." (blu acceso #2A80FF) / **"Poi costruiamo la soluzione."** (bianco) — convertito a template scuro il 28/09/2026 per il ritmo scuro/chiaro della sequenza
-- **Illustrazione:** icona lente (capire) collegata con una freccia a un'icona di spunta (soluzione costruita), sotto il testo
+- **Illustrazione:** mockup UI di due pannelli collegati — "Analisi" (lente) → freccia → "Soluzione" (barra blu piena), sotto il testo
 - **Caption:** "Non iniziamo mai da un modello preconfezionato. Ogni progetto parte da una conversazione su come lavori davvero."
 - **CTA:** "Raccontaci come lavori oggi."
 - **Hashtag:** #LRCSolutions #MetodoDiLavoro #SoftwareSuMisura #PMI
@@ -75,7 +75,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Chiudere il blocco di awareness riportando tutto al beneficio finale, in modo semplice e memorabile.
 - **Testo visual:** "Dietro ogni automazione c'è un'idea semplice." (scuro) / **"Farti risparmiare tempo."** (blu, accento)
-- **Illustrazione:** cronometro con lancette blu in movimento veloce, simbolo del tempo risparmiato, sotto il testo
+- **Illustrazione:** mockup UI di card statistica dashboard: "-12h" tempo risparmiato con sparkline, sotto il testo
 - **Caption:** "Non serve complicare la tecnologia per farla funzionare. Serve capire dove sta rubando tempo, e toglierlo di mezzo."
 - **CTA:** "Segui LRC per scoprire come lo facciamo, un caso alla volta."
 - **Hashtag:** #LRCSolutions #Automazione #TempoRisparmiato #PMI
@@ -95,7 +95,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** L'AI non sostituisce tutto: migliora punti specifici.
 - **Testo visual:** "Il problema non è avere l'AI." (blu, accento) / **"È sapere dove risparmi tempo."** (bianco, sfondo scuro con bagliore)
-- **Illustrazione:** singola scintilla blu con bagliore, sotto il testo
+- **Illustrazione:** mockup UI di chat con un assistente IA: messaggio utente grigio + risposta blu con scintilla, sotto il testo
 - **Caption:** "Non usiamo l'intelligenza artificiale perché fa tendenza. La usiamo dove risolve davvero un problema: velocizzare una ricerca, automatizzare una risposta, ridurre un errore. Il resto è marketing."
 - **CTA:** "Parliamone: dove pensi che l'AI potrebbe aiutarti davvero?"
 - **Hashtag:** #IntelligenzaArtificiale #AIperlePMI #LRCSolutions #Automazione
@@ -105,7 +105,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** Automatizzare le richieste ripetitive libera tempo per il servizio.
 - **Testo visual:** "Il tuo ristorante non dovrebbe" (scuro) / **"rispondere sempre alle stesse domande."** (blu, accento)
-- **Illustrazione:** due bolle di chat — una grigia (domanda ripetuta) e una blu con spunta (risposta automatica), sotto il testo
+- **Illustrazione:** mockup di chat reale stile WhatsApp — domanda ripetuta (grigia) + risposta automatica del bot (blu, doppio check), sotto il testo
 - **Caption:** "Orari, disponibilità, prenotazioni, domande su allergeni: sono richieste che si ripetono ogni giorno. Automatizzarle non toglie nulla al servizio — lascia più tempo per farlo bene."
 - **CTA:** "Gestisci un ristorante o un locale? Scrivici."
 - **Hashtag:** #Ristoranti #AutomazioneWhatsApp #LRCSolutions #TecnologiaPerRistoranti
@@ -115,7 +115,7 @@ Prima sequenza strategica (Fase 1 — Riconoscibilità, vedi `strategy/growth-ph
 
 - **Concept:** LRC adatta il software al cliente, non il contrario.
 - **Testo visual:** "E se il software si adattasse al tuo lavoro?" (scuro) / **"Non il contrario."** (blu, accento)
-- **Illustrazione:** due forme organiche (bianca e blu) che si incastrano adattandosi l'una all'altra, sotto il testo
+- **Illustrazione:** mockup UI di dashboard personalizzabile con widget trascinabili in fase di riordino, sotto il testo
 - **Caption:** "La maggior parte dei software ti chiede di adattarti a loro. Noi facciamo il contrario: costruiamo il software attorno al modo in cui lavori davvero."
 - **CTA:** "Raccontaci come lavori: troviamo la soluzione insieme."
 - **Hashtag:** #SoftwareSuMisura #LRCSolutions #PMI #SoluzioniDigitali
