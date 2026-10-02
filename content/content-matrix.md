@@ -12,19 +12,20 @@ Matrice tema × target × angolo. Permette al Director di capire cosa è già st
 | Trasversale (Awareness) | Trasversale | Differenziazione (non software house) | POST 004 (planned, 05/10/2026) | 1 |
 | Trasversale (Awareness) | Trasversale | Metodo di lavoro | POST 005 (planned, 07/10/2026) | 1 |
 | Automazione (Awareness) | Trasversale | Beneficio finale (tempo risparmiato) | POST 006 (planned, 09/10/2026) | 1 |
-| AI | PMI | Produttività | — | — |
+| Trasversale (Conversione) | Trasversale | Chiusura/sintesi, invito al contatto | POST 020 (planned, 11/11/2026) | 1 |
+| AI | PMI | Produttività | POST 014 (planned, 28/10/2026) | 1 |
 | AI | PMI/Trasversale | AI concreta | POST 008 (planned, 14/10/2026) | 1 |
-| AI | Ristoranti | WhatsApp | — | — |
-| AI | Aziende / Industria | Automazione produzione | — | — |
+| AI | Ristoranti | WhatsApp | POST 015 (planned, 30/10/2026) | 1 |
+| AI | Aziende / Industria | Automazione produzione | POST 016 (planned, 02/11/2026) | 1 |
 | Automazione | PMI | Tempo perso / riduzione lavoro manuale | POST 007 (planned, 12/10/2026) | 1 |
 | Automazione | Ristoranti | Richieste ripetitive | POST 009 (planned, 16/10/2026) | 1 |
-| Automazione | Aziende / Industria | Produzione | — | — |
-| Software | PMI | Gestione | — | — |
-| Software | Ristoranti | Ordini | — | — |
-| Software | Aziende / Industria | Integrazione sistemi | — | — |
+| Automazione | Aziende / Industria | Riduzione errori in produzione | POST 017 (planned, 04/11/2026) | 1 |
+| Software | PMI | Gestione | POST 011 (planned, 21/10/2026) | 1 |
+| Software | Ristoranti | Ordini | POST 012 (planned, 23/10/2026) | 1 |
+| Software | Aziende / Industria | Integrazione sistemi | POST 013 (planned, 26/10/2026) | 1 |
 | Soluzioni su misura | PMI/Trasversale | Adattabilità | POST 010 (planned, 19/10/2026) | 1 |
-| Soluzioni su misura | Ristoranti | — | — | — |
-| Soluzioni su misura | Aziende / Industria | — | — | — |
+| Soluzioni su misura | Ristoranti | Adattabilità per settore | POST 018 (planned, 06/11/2026) | 1 |
+| Soluzioni su misura | Aziende / Industria | Adattabilità per processi complessi | POST 019 (planned, 09/11/2026) | 1 |
 
 ## Come leggere la matrice
 
